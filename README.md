@@ -1,3 +1,5 @@
+- 🔄 Work in progress
+- 
 - 👋 Hi, I’m @Aakash-2704
 - 👀 I’m interested in Data Engineer 
 - 🌱 I’m currently learning Python and R
